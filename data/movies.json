@@ -1,0 +1,44 @@
+[
+  {
+    "title": "John Wick",
+    "synopsis": "Oke",
+    "imgUrl": "Gambar",
+    "rating": 9,
+    "userId": 1
+  },
+  {
+    "title": "John Wick 2",
+    "synopsis": "Oke",
+    "imgUrl": "Gambar",
+    "rating": 8,
+    "userId": 1
+  },
+  {
+    "title": "John Wick 3",
+    "synopsis": "Oke",
+    "imgUrl": "Gambar",
+    "rating": 10,
+    "userId": 1
+  },
+  {
+    "title": "John Wick 4",
+    "synopsis": "Oke",
+    "imgUrl": "Gambar",
+    "rating": 9,
+    "userId": 1
+  },
+  {
+    "title": "John Wick 5",
+    "synopsis": "Oke",
+    "imgUrl": "Gambar",
+    "rating": 8,
+    "userId": 2
+  },
+  {
+    "title": "John Wick 6",
+    "synopsis": "Oke",
+    "imgUrl": "Gambar",
+    "rating": 10,
+    "userId": 2
+  }
+]
